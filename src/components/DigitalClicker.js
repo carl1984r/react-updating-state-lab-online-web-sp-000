@@ -5,7 +5,7 @@ export default class DigitalClicker extends Component {
     constructor() {
         super()
         this.state = {
-            timesClicked: 22
+            timesClicked: 0
         }
     }
 
