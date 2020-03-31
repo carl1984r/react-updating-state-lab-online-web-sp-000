@@ -8,7 +8,7 @@ export default class YouTubeDebugger extends Component {
             errors: [],
             user: null,
             settings: {
-                bitrate: 8,
+                bitrate: 2,
                 video: {
                     resolution: '1080p'
                 }
