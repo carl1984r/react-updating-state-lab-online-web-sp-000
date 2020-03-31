@@ -6,7 +6,7 @@ export default class YouTubeDebugger extends Component {
         super()
         this.state = {
             errors: [],
-            user: 1,
+            user: null,
             settings: {
                 bitrate: 8,
                 video: {
